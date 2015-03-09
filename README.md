@@ -5,7 +5,7 @@ Tells you to which country belong a set of coordinates.
 
 Based on data found @ <http://www.gadm.org/>.
 
-**WARNING: USES A LOT OF RAM (~7Go) AND IS STILL VERY SLOW.**
+**WARNING: USES A LOT OF RAM (~4Go) AND IS STILL VERY SLOW.**
 
 ## Installation
 
